@@ -1,6 +1,6 @@
 # Wikipedia Editing
 
-Prepared by Brian Geyer and Brandon Locke
+Prepared by Brian Samuel Geyer and Brandon Locke
 
 ## Why edit Wikipedia?
 
